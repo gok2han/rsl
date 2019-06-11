@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12_Protaetia_cuprea_ignicollis</folder>
+	<filename>biolib_cz105300.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\12_Protaetia_cuprea_ignicollis\biolib_cz105300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_cuprea_ignicollis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>80</ymin>
+			<xmax>361</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

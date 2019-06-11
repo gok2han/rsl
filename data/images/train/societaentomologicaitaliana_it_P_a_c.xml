@@ -1,0 +1,26 @@
+<annotation>
+	<folder>09_Protaetia_angustata_angustata</folder>
+	<filename>societaentomologicaitaliana_it_P_a_c.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\09_Protaetia_angustata_angustata\societaentomologicaitaliana_it_P_a_c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_angustata_angustata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>49</ymin>
+			<xmax>398</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

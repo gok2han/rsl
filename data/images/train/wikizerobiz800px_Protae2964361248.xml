@@ -1,0 +1,26 @@
+<annotation>
+	<folder>09_Protaetia_angustata_angustata</folder>
+	<filename>wikizerobiz800px_Protae2964361248.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\09_Protaetia_angustata_angustata\wikizerobiz800px_Protae2964361248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>529</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_angustata_angustata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>7</ymin>
+			<xmax>765</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

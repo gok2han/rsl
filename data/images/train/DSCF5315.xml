@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12_Protaetia_cuprea_ignicollis</folder>
+	<filename>DSCF5315.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\12_Protaetia_cuprea_ignicollis\DSCF5315.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_cuprea_ignicollis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>232</ymin>
+			<xmax>1329</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>

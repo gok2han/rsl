@@ -1,0 +1,26 @@
+<annotation>
+	<folder>09_Protaetia_angustata_angustata</folder>
+	<filename>biolib_cz184658.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\09_Protaetia_angustata_angustata\biolib_cz184658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_angustata_angustata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>158</ymin>
+			<xmax>529</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

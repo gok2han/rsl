@@ -1,0 +1,38 @@
+<annotation>
+	<folder>04_Oxythyrea_albopicta</folder>
+	<filename>20190425_160122.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\04_Oxythyrea_albopicta\20190425_160122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_albopicta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>279</ymin>
+			<xmax>411</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Oxythyrea_albopicta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>404</ymin>
+			<xmax>394</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

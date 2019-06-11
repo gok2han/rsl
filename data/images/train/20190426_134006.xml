@@ -1,0 +1,38 @@
+<annotation>
+	<folder>16_Protaetia_oblonga</folder>
+	<filename>20190426_134006.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\16_Protaetia_oblonga\20190426_134006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_oblonga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>634</xmin>
+			<ymin>404</ymin>
+			<xmax>828</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia_oblonga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>381</ymin>
+			<xmax>627</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

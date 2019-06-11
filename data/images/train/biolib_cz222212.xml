@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07_Protaetia_speciosa_jousselini</folder>
+	<filename>biolib_cz222212.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\07_Protaetia_speciosa_jousselini\biolib_cz222212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_speciosa_jousseliniw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>39</ymin>
+			<xmax>689</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

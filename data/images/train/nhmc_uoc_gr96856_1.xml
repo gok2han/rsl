@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19_Protaetia_vidua</folder>
+	<filename>nhmc_uoc_gr96856_1.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\19_Protaetia_vidua\nhmc_uoc_gr96856_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_vidua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>37</ymin>
+			<xmax>379</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>
