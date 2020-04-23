@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Ceton_Gnorimus_variabilissocietaentomologicaitaliana_it_f.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\03_Gnorimus_variabilis_yeniden\train\Ceton_Gnorimus_variabilissocietaentomologicaitaliana_it_f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>03_Gnorimus_variabilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>9</ymin>
+			<xmax>403</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

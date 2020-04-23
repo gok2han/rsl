@@ -1,7 +1,7 @@
 <annotation>
-	<folder>01_Cetonia_aurata</folder>
+	<folder>test</folder>
 	<filename>Ceton_Cetonia_aurata20190410_125554.jpg</filename>
-	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\Ceton_Cetonia_aurata20190410_125554.jpg</path>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\01_Cetonia_aurata_yeniden\test\Ceton_Cetonia_aurata20190410_125554.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>403</xmin>
-			<ymin>377</ymin>
-			<xmax>536</xmax>
-			<ymax>463</ymax>
+			<xmin>406</xmin>
+			<ymin>378</ymin>
+			<xmax>537</xmax>
+			<ymax>473</ymax>
 		</bndbox>
 	</object>
 </annotation>

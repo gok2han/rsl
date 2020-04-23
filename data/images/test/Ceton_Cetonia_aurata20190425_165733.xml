@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>Ceton_Cetonia_aurata20190425_165733.jpg</filename>
-	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\Ceton_Cetonia_aurata20190425_165733.jpg</path>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\01_Cetonia_aurata_yeniden\test\Ceton_Cetonia_aurata20190425_165733.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,147 +12,159 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>395</xmin>
-			<ymin>311</ymin>
-			<xmax>602</xmax>
-			<ymax>472</ymax>
+			<xmin>1</xmin>
+			<ymin>312</ymin>
+			<xmax>149</xmax>
+			<ymax>437</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>593</xmin>
-			<ymin>498</ymin>
-			<xmax>809</xmax>
+			<xmin>165</xmin>
+			<ymin>307</ymin>
+			<xmax>358</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>01_Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>325</ymin>
+			<xmax>605</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>01_Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>648</xmin>
+			<ymin>328</ymin>
+			<xmax>869</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>01_Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>322</ymin>
+			<xmax>1024</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>01_Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>499</ymin>
+			<xmax>819</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>01_Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>509</ymin>
+			<xmax>1024</xmax>
 			<ymax>663</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>369</xmin>
-			<ymin>474</ymin>
-			<xmax>583</xmax>
-			<ymax>645</ymax>
+			<xmin>382</xmin>
+			<ymin>482</ymin>
+			<xmax>570</xmax>
+			<ymax>638</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>316</ymin>
-			<xmax>360</xmax>
-			<ymax>445</ymax>
+			<xmin>150</xmin>
+			<ymin>460</ymin>
+			<xmax>353</xmax>
+			<ymax>636</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>158</xmin>
-			<ymin>468</ymin>
-			<xmax>364</xmax>
-			<ymax>625</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cetonia_aurata</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>655</xmin>
-			<ymin>333</ymin>
-			<xmax>861</xmax>
-			<ymax>479</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>894</xmin>
-			<ymin>499</ymin>
-			<xmax>1024</xmax>
-			<ymax>671</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cetonia_aurata</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>6</xmin>
-			<ymin>638</ymin>
-			<xmax>145</xmax>
+			<xmin>134</xmin>
+			<ymin>653</ymin>
+			<xmax>371</xmax>
 			<ymax>768</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>654</ymin>
-			<xmax>352</xmax>
+			<xmin>605</xmin>
+			<ymin>670</ymin>
+			<xmax>853</xmax>
 			<ymax>768</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>595</xmin>
-			<ymin>671</ymin>
-			<xmax>850</xmax>
+			<xmin>375</xmin>
+			<ymin>698</ymin>
+			<xmax>571</xmax>
 			<ymax>768</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Cetonia_aurata</name>
+		<name>01_Cetonia_aurata</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>309</ymin>
-			<xmax>153</xmax>
-			<ymax>449</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cetonia_aurata</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>450</ymin>
-			<xmax>127</xmax>
-			<ymax>614</ymax>
+			<ymin>632</ymin>
+			<xmax>123</xmax>
+			<ymax>761</ymax>
 		</bndbox>
 	</object>
 </annotation>
