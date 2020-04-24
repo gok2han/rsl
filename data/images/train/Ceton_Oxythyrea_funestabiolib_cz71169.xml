@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Ceton_Oxythyrea_funestabiolib_cz71169.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\06_Oxythyrea_funesta_yeniden\train\Ceton_Oxythyrea_funestabiolib_cz71169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>06_Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>112</ymin>
+			<xmax>447</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
