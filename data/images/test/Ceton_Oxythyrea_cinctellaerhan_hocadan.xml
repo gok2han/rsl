@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>Ceton_Oxythyrea_cinctellaerhan_hoc_oxythyrea_cin .JPG</filename>
-	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\05_Oxythyrea_cinctella_yeniden\test\Ceton_Oxythyrea_cinctellaerhan_hoc_oxythyrea_cin .JPG</path>
+	<filename>Ceton_Oxythyrea_cinctellaerhan_hocadan.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01Cetoniinae\05_Oxythyrea_cinctella_yeniden\test\Ceton_Oxythyrea_cinctellaerhan_hocadan.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>05_Oxythyrea_cinctella</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>32</ymin>
-			<xmax>484</xmax>
-			<ymax>961</ymax>
+			<xmin>1</xmin>
+			<ymin>14</ymin>
+			<xmax>480</xmax>
+			<ymax>960</ymax>
 		</bndbox>
 	</object>
 </annotation>
