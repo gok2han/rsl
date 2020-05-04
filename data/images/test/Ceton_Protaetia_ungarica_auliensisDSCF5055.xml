@@ -1,0 +1,26 @@
+<annotation>
+	<folder>18_Protaetia_ungarica</folder>
+	<filename>Ceton_Protaetia_ungarica_auliensisDSCF5055.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\18_Protaetia_ungarica\Ceton_Protaetia_ungarica_auliensisDSCF5055.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_ungarica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>578</ymin>
+			<xmax>1171</xmax>
+			<ymax>1036</ymax>
+		</bndbox>
+	</object>
+</annotation>

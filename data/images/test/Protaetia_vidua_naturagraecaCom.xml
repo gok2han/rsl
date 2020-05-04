@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19_Protaetia_vidua</folder>
+	<filename>Protaetia_vidua_naturagraecaCom.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\19_Protaetia_vidua\Protaetia_vidua_naturagraecaCom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>644</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_vidua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>108</ymin>
+			<xmax>536</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
