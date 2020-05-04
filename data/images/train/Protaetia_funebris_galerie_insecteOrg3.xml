@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14_Protaetia_funebris</folder>
+	<filename>Protaetia_funebris_galerie_insecteOrg3.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\14_Protaetia_funebris\Protaetia_funebris_galerie_insecteOrg3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_funebris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>26</ymin>
+			<xmax>438</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>

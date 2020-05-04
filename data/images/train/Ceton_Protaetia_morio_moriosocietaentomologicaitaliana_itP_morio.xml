@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15_Protaetia_morio_morio</folder>
+	<filename>Ceton_Protaetia_morio_moriosocietaentomologicaitaliana_itP_morio.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\15_Protaetia_morio_morio\Ceton_Protaetia_morio_moriosocietaentomologicaitaliana_itP_morio.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>323</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_morio_morio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>38</ymin>
+			<xmax>290</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

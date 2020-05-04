@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12_Protaetia_cuprea_ignicollis</folder>
+	<filename>Ceton_Protaetia_cuprea_ignicollisDSCF5335.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\12_Protaetia_cuprea_ignicollis\Ceton_Protaetia_cuprea_ignicollisDSCF5335.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_cuprea_ignicollis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>72</ymin>
+			<xmax>1586</xmax>
+			<ymax>1418</ymax>
+		</bndbox>
+	</object>
+</annotation>

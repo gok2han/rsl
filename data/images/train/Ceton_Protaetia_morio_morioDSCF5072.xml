@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15_Protaetia_morio_morio</folder>
+	<filename>Ceton_Protaetia_morio_morioDSCF5072.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\15_Protaetia_morio_morio\Ceton_Protaetia_morio_morioDSCF5072.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_morio_morio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>510</ymin>
+			<xmax>1175</xmax>
+			<ymax>1069</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12_Protaetia_cuprea_ignicollis</folder>
+	<filename>Protaetia_cuprea_ignicollis_flickr11.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\12_Protaetia_cuprea_ignicollis\Protaetia_cuprea_ignicollis_flickr11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1276</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_cuprea_ignicollis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>43</ymin>
+			<xmax>988</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+</annotation>

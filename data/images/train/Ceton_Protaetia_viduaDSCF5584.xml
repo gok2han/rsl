@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19_Protaetia_vidua</folder>
+	<filename>Ceton_Protaetia_viduaDSCF5584.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\19_Protaetia_vidua\Ceton_Protaetia_viduaDSCF5584.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_vidua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>389</ymin>
+			<xmax>1450</xmax>
+			<ymax>1451</ymax>
+		</bndbox>
+	</object>
+</annotation>

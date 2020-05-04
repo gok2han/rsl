@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07_Protaetia_speciosa_jousselini</folder>
+	<filename>Ceton_Protaetia_speciosa_jousseliniDSCF5699.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\07_Protaetia_speciosa_jousselini\Ceton_Protaetia_speciosa_jousseliniDSCF5699.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_speciosa_jousselini</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>1</ymin>
+			<xmax>1445</xmax>
+			<ymax>1499</ymax>
+		</bndbox>
+	</object>
+</annotation>

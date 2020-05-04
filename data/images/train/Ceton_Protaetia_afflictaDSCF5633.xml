@@ -1,0 +1,26 @@
+<annotation>
+	<folder>08_Protaetia_afflicta</folder>
+	<filename>Ceton_Protaetia_afflictaDSCF5633.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\08_Protaetia_afflicta\Ceton_Protaetia_afflictaDSCF5633.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_afflicta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>340</ymin>
+			<xmax>1482</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>07_Protaetia_speciosa_jousselini</folder>
+	<filename>Ceton_Protaetia_speciosa_jousseliniredsearch_orghemaspecousselini.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\07_Protaetia_speciosa_jousselini\Ceton_Protaetia_speciosa_jousseliniredsearch_orghemaspecousselini.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_speciosa_jousselini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>4</ymin>
+			<xmax>643</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia_speciosa_jousselini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>23</ymin>
+			<xmax>341</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

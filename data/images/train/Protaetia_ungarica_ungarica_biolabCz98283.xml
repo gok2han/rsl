@@ -1,0 +1,38 @@
+<annotation>
+	<folder>18_Protaetia_ungarica</folder>
+	<filename>Protaetia_ungarica_ungarica_biolabCz98283.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\18_Protaetia_ungarica\Protaetia_ungarica_ungarica_biolabCz98283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>709</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_ungarica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>119</ymin>
+			<xmax>610</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia_ungarica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>322</ymin>
+			<xmax>401</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>16_Protaetia_oblonga</folder>
+	<filename>Protaetia_oblonga_flickr1.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\01CetoniinaeSubFamily\16_Protaetia_oblonga\Protaetia_oblonga_flickr1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1204</width>
+		<height>973</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_oblonga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>3</ymin>
+			<xmax>1177</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+</annotation>
