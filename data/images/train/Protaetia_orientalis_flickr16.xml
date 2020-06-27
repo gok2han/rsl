@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ek4Protaetia _orientalis</folder>
+	<filename>Protaetia_orientalis_flickr16.jpg</filename>
+	<path>C:\Users\pc\Downloads\Ek4Protaetia _orientalis\Protaetia_orientalis_flickr16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>278</ymin>
+			<xmax>449</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

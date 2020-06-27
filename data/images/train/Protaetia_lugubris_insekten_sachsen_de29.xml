@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ek5Protaetia_lugubris</folder>
+	<filename>Protaetia_lugubris_insekten_sachsen_de29.jpg</filename>
+	<path>C:\Users\pc\Downloads\Ek5Protaetia_lugubris\Protaetia_lugubris_insekten_sachsen_de29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_lugubris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>70</ymin>
+			<xmax>555</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

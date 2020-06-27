@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ek5Protaetia_lugubris</folder>
+	<filename>Protaetia_lugubris_wiki5.jpg</filename>
+	<path>C:\Users\pc\Downloads\Ek5Protaetia_lugubris\Protaetia_lugubris_wiki5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_lugubris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>22</ymin>
+			<xmax>739</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>

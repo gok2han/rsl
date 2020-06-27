@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek6Protaetia_metallica</folder>
+	<filename>Protaetia_metallica_wiki.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek6Protaetia_metallica\Protaetia_metallica_wiki.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_metallica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>144</ymin>
+			<xmax>329</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

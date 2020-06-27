@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ek4Protaetia _orientalis</folder>
+	<filename>Protaetia_orientalis_entophile_com2.jpg</filename>
+	<path>C:\Users\pc\Downloads\Ek4Protaetia _orientalis\Protaetia_orientalis_entophile_com2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>438</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>171</ymin>
+			<xmax>378</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>186</ymin>
+			<xmax>191</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>132</ymin>
+			<xmax>293</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Ek4Protaetia _orientalis</folder>
+	<filename>Protaetia_orientalis_wikipedia.jpg</filename>
+	<path>C:\Users\pc\Downloads\Ek4Protaetia _orientalis\Protaetia_orientalis_wikipedia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>530</ymin>
+			<xmax>901</xmax>
+			<ymax>1164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>1028</ymin>
+			<xmax>1069</xmax>
+			<ymax>1640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1063</xmin>
+			<ymin>1034</ymin>
+			<xmax>1711</xmax>
+			<ymax>1772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia _orientalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>170</ymin>
+			<xmax>1679</xmax>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+</annotation>

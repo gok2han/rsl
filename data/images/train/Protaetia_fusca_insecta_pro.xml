@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek2Protaetia_fusca</folder>
+	<filename>Protaetia_fusca_insecta_pro.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek2Protaetia_fusca\Protaetia_fusca_insecta_pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>643</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_fusca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>51</ymin>
+			<xmax>539</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

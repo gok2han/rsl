@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek1Protaetia_fieberi</folder>
+	<filename>Protaetia_fieberi_zin_ru4.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek1Protaetia_fieberi\Protaetia_fieberi_zin_ru4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>753</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_fieberi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>117</ymin>
+			<xmax>708</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

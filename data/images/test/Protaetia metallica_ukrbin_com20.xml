@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek6Protaetia_metallica</folder>
+	<filename>Protaetia metallica_ukrbin_com20.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek6Protaetia_metallica\Protaetia metallica_ukrbin_com20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_metallica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>72</ymin>
+			<xmax>746</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

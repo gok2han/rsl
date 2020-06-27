@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek1Protaetia_fieberi</folder>
+	<filename>Protaetia_fieberi_flickr1.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek1Protaetia_fieberi\Protaetia_fieberi_flickr1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>886</width>
+		<height>766</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_fieberi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>64</ymin>
+			<xmax>759</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

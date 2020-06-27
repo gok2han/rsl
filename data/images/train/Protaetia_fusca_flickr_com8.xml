@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek2Protaetia_fusca</folder>
+	<filename>Protaetia_fusca_flickr_com8.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek2Protaetia_fusca\Protaetia_fusca_flickr_com8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>837</width>
+		<height>804</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_fusca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>124</ymin>
+			<xmax>544</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek1Protaetia_fieberi</folder>
+	<filename>Protaetia_fieberi_inpn_mnhn_fr.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek1Protaetia_fieberi\Protaetia_fieberi_inpn_mnhn_fr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_fieberi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>146</ymin>
+			<xmax>387</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

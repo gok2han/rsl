@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ek3Protaetia_niveoguttata</folder>
+	<filename>Protaetia_niveoguttata_blogspot_com5.jpg</filename>
+	<path>C:\Users\pc\Downloads\ek3Protaetia_niveoguttata\Protaetia_niveoguttata_blogspot_com5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_niveoguttata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>123</ymin>
+			<xmax>466</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
