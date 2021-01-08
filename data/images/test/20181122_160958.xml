@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20181122_160958.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\test\20181122_160958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beypazarimadensuyu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>147</ymin>
+			<xmax>399</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

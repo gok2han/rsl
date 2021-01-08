@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20181122_154818.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\test\20181122_154818.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>antepfistigi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>1</ymin>
+			<xmax>220</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peysankavrulmusfindik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>173</ymin>
+			<xmax>216</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

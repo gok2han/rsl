@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>20181122_153555.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\20181122_153555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>etigong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>333</ymin>
+			<xmax>313</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20181122_154715.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\test\20181122_154715.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bahcedenantioxidan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>26</ymin>
+			<xmax>570</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

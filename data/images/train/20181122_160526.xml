@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>20181122_160526.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\20181122_160526.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camlicayogurt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>225</ymin>
+			<xmax>392</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

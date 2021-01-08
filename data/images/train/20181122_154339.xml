@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>20181122_154339.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\20181122_154339.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>layspeynirsoslu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>128</ymin>
+			<xmax>451</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

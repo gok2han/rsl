@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>20181122_155416.jpg</filename>
+	<path>E:\Yapay zeka\resimler\resized\JPEG\20181122_155416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bahcedenkurukayisi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>95</ymin>
+			<xmax>364</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>
